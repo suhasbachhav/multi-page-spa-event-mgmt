@@ -1,0 +1,22 @@
+export const EVENTS = [
+    { id: 1, title: "Music Concert" },
+    { id: 2, title: "Art Exhibition" },
+    { id: 3, title: "Tech Conference" },
+    { id: 4, title: "Food Festival" },
+    { id: 5, title: "Marathon" },
+    { id: 6, title: "Book Fair" },
+    { id: 7, title: "Science Workshop" },
+    { id: 8, title: "Film Screening" },
+    { id: 9, title: "Dance Performance" },
+    { id: 10, title: "Community Picnic" },
+    { id: 11, title: "Charity Run" },
+    { id: 12, title: "Photography Contest" },
+    { id: 13, title: "Cultural Parade" },
+    { id: 14, title: "Theater Play" },
+    { id: 15, title: "Technology Expo" },
+    { id: 16, title: "Outdoor Yoga" },
+    { id: 17, title: "Sustainability Summit" },
+    { id: 18, title: "Gaming Tournament" },
+    { id: 19, title: "Wine Tasting" },
+    { id: 20, title: "Fashion Show" }
+];
