@@ -20,6 +20,7 @@ router.get('/', async (req, res, next) => {
 
 router.get('/:id', async (req, res, next) => {
   try {
+    console.log('here')
     const event = await get(req.params.id);
     res.json({ event: event });
   } catch (error) {
