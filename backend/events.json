@@ -1,1 +1,12 @@
-{"events":[{"title":"Test event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meydanfz.ae%2Fblog%2Fevent-management-license-dubai-costs-and-rules&psig=AOvVaw1XkYcTzUt3D09-Gx5vTAKU&ust=1743270087179000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjuq6eprYwDFQAAAAAdAAAAABAJ","date":"2025-03-29","description":"test event","id":"4ef16c7e-9f13-40e3-8e54-f40b68d72826"},{"title":"Holi Event","image":"https://blogs.tripzygo.in/wp-content/uploads/2025/02/holi-events-in-hyderabad.jpg","date":"2025-04-17","description":"Holi event ","id":"d12a852b-5f45-4535-893c-31a307f9bbeb"},{"title":"Holi Event","image":"https://blogs.tripzygo.in/wp-content/uploads/2025/02/holi-events-in-hyderabad.jpg","date":"2025-04-17","description":"Holi event ","id":"45e0d144-7036-49a1-839a-2ab32d8552be"},{"title":"Holi Event","image":"https://blogs.tripzygo.in/wp-content/uploads/2025/02/holi-events-in-hyderabad.jpg","date":"2025-04-17","description":"Holi event ","id":"9e1557db-e47c-4c39-bc74-0fd1977bebb3"},{"title":"Holi Event","image":"https://blogs.tripzygo.in/wp-content/uploads/2025/02/holi-events-in-hyderabad.jpg","date":"2025-04-17","description":"Holi event ","id":"283bcb2a-da2d-4193-b4d7-83196f6d510c"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": []
+}
