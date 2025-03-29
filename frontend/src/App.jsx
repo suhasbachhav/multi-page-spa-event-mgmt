@@ -23,11 +23,6 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <HomePage /> },
       {
-        path: '/auth',
-        element: <AuthenticationPage />,
-        action: authAction,
-      },
-      {
         path: 'events',
         element: <EventsRootLayout />,
         children: [
@@ -59,6 +54,11 @@ const router = createBrowserRouter([
             action: manipulateEventAction,
           },
         ],
+      },
+      {
+        path: 'auth',
+        element: <AuthenticationPage />,
+        action: authAction
       },
       {
         path: 'newsletter',
